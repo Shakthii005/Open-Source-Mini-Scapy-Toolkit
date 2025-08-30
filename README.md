@@ -28,14 +28,19 @@ Menu options:
 3. Packet Sniffer
 4. Exit
 1. Ping Sweep
-output: <img width="881" height="283" alt="image" src="https://github.com/user-attachments/assets/d41cfa44-0517-47d3-b0c2-12c1c9ed3ee8" />
+   
+output:
+ <img width="881" height="283" alt="image" src="https://github.com/user-attachments/assets/d41cfa44-0517-47d3-b0c2-12c1c9ed3ee8" />
 
 2. TCP SYN Scan
    
-  Output: <img width="619" height="102" alt="image" src="https://github.com/user-attachments/assets/0f4be807-fa40-4287-a7eb-75a6fe1d0c85" />
+  Output:
+  <img width="619" height="102" alt="image" src="https://github.com/user-attachments/assets/0f4be807-fa40-4287-a7eb-75a6fe1d0c85" />
+
 3. Packet Sniffer
 
-output: <img width="857" height="314" alt="image" src="https://github.com/user-attachments/assets/22f00ef5-998b-4357-aec1-8788283efab7" />
+output: 
+<img width="857" height="314" alt="image" src="https://github.com/user-attachments/assets/22f00ef5-998b-4357-aec1-8788283efab7" />
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 Disclaimer
 
